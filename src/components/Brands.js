@@ -11,7 +11,7 @@ const Brands = () => {
             {brands.map((brand,index)=>{
                 return(
                     <div key={index} className='mx-20 my-10'>
-                        <Link to={brand.href} ><img className='h-[80px] ' src={brand.img} alt="" /></Link>
+                        <a href={brand.href} ><img className='h-[80px] ' src={brand.img} alt="" /></a>
                     </div>
                 )
             })}

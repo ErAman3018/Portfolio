@@ -57,13 +57,10 @@ const Contact = () => {
     <section className='section bg-primary' id='contact'>
       <div className="container mx-auto">
         {/* section title */}
-        <div className="flex flex-col items-center text-center">
+        <div className="flex flex-col items-center text-center mb-2">
             <h2 className="section-title before:content-contact relative before:absolute before:opacity-40 before:-top-7 before:-left-40  before:hidden before:lg:block">
                 {/* <Link to='contact'>Contact me</Link> */}Contact me
             </h2>
-            <p className='subtitle'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus eos excepturi enim debitis, ratione eum esse id earum nulla voluptate inventore illum aspernatur, alias ea qui culpa obcaecati delectus veniam.
-            </p>
         </div>
 
         <div className="flex flex-col lg:gap-x-8 lg:flex-row">

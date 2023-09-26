@@ -105,36 +105,42 @@ export const projectsData = [
     image: Project5,
     name: 'travel',
     category: 'web development',
+    href: 'https://bespoke-kashata-eac8d9.netlify.app',
   },
   {
     id: '2',
     image: Project6,
     name: 'Music landing page',
     category: 'web development',
+    href: 'https://nimble-griffin-1bd90f.netlify.app',
   },
   {
     id: '3',
     image: Project1,
     name: 'particle distroyed after some time',
     category: 'design',
+    href: '',
   },
   {
     id: '4',
     image: Project2,
     name: 'Hover effect',
     category: 'design',
+    href: '',
   },
   {
     id: '5',
     image: Project3,
     name: 'Rotaion on hover',
     category: 'design',
+    href: '',
   },
   {
     id: '6',
     image: Project4,
     name: 'rotation',
     category: 'design',
+    href: '',
   },
   
 ];
