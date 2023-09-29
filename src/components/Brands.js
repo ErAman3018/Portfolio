@@ -2,7 +2,6 @@ import React from 'react';
 
 // import brands data
 import { brands } from '../data';
-import { Link } from 'react-scroll';
 
 const Brands = () => {
   return (
