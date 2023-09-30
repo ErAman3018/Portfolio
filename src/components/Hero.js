@@ -22,7 +22,7 @@ const Hero = () => {
               <li>Collect Contact details for future ongoing relation.</li></p>
               <div className='flex'>
               <Link to='contact' className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all mx-5"> Hire me</Link>
-              <a  href='https://drive.google.com/file/d/1lAkZW8InQmxcd68HZGtforDia8lgxkm_/view?usp=sharing' className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all"> Resume</a>
+              <a  href='https://drive.google.com/file/d/1QEKmzv3a4vbXhkuixL2V8BnUwEvlzKhu/view?usp=sharing' className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all"> Resume</a>
               </div>
             </div>
             {/* right side */}

@@ -28,7 +28,7 @@ const About = () => {
                         </p>
                     </div>
                      {/* eslint-disable-next-line */}
-                    <Link to='/contact' className='btn btn-md bg-accent hover:bg-accent-hover transition-all'>Contact me</Link>
+                    <Link to='contact' className='btn btn-md bg-accent hover:bg-accent-hover transition-all'>Contact me</Link>
                 </div>
             </div>
         </div>
