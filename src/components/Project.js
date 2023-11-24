@@ -9,6 +9,7 @@ const Project = ({item}) => {
       </div>
       <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
       <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
+      {item.href && <a href={item.href}>Live link</a>}
     </div>
   )
 }
